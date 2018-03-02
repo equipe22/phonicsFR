@@ -1,0 +1,14 @@
+Package: phonicsFR
+Type: Package
+Title: Phonics Algorithms In French
+Version: 0.1.0
+Author: Antoine Neuraz
+Maintainer: Antoine Neuraz <antoine.neuraz@gmail.comt>
+Description: This package provides algorithms to phonetically transform text. 
+    These algorithms are adapted to work on french texts.
+License: MIT
+Encoding: UTF-8
+Imports: stringr
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: testthat
