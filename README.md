@@ -7,6 +7,8 @@ Currently two algorithms are implemented:
 - phonex
 - soundex2
 
+The current implementation borrows a lot from the work of Florent Carlier ([http://info.univ-lemans.fr/~carlier/recherche/soundex.html]())
+
 ## Installation
 
 ```r
