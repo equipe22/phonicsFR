@@ -19,6 +19,6 @@ devtools::install.github('equipe22/phonicsFR')
 ```r
 txt = 'example'
 phonex(txt)
-soundex(txt)
+soundex2(txt)
 ```
 
